@@ -14,7 +14,7 @@ Vendor ID and Hardware ID. You will need these for your Intercept INI file. In c
 
 
 
-Change Log
+Change Log:
 1. Added working "README.md", "002a keyremap.ini" and "003a DeLUX T9 Macros.ahk".
 2. For "003a", added back in AutoHotkey keep window on top routine. Was finding the Microsoft PowerToys "Window Stay On Top" tool was not always working correctly. Remarked out the code and will reconsider the tool with a later release of Windows PowerToys.
 3. ... 
