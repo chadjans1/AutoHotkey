@@ -8,7 +8,7 @@ Thank you Taran for your work, it was invaluable for my understanding of AutoHot
 Here was my step by step:
 1. Purchase DeLUX T9 from an eBay listing.
 2. Plug-in DeLUX T9 keyboard into a Windows machine and using Windows "Device Manager" find the DeLUX T9 device listing and identify the 
-Vendor ID and Hardware ID. You will need these for your Intercept INI file.
+Vendor ID and Hardware ID. You will need these for your Intercept INI file. In case you are currious about Vendor and Hardware IDs, here is a lookup tool and database. 
 3. ...
 
 
