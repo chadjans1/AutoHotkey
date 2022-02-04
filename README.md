@@ -10,3 +10,15 @@ Here was my step by step:
 2. Plug-in DeLUX T9 keyboard into a Windows machine and using Windows "Device Manager" find the DeLUX T9 device listing and identify the 
 Vendor ID and Hardware ID. You will need these for your Intercept INI file.
 3. 
+4.
+5.
+6.
+
+
+
+
+Change Log
+1. Added working README.md, 002 and 003
+2. For 002, added back in AutoHotkey keep window on top routine. Was finding the Microsoft PowerToys "Window Stay On Top" tool was not always working correctly. Remarked out the code and will reconsider the tool with a later release of Windows PowerToys.
+3. Added 
+
